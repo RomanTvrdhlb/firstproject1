@@ -1,1 +1,46 @@
-
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale-1.0">
+        <title>Отправьте свое резюме</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="main.css">
+    </head>
+        <body>
+<h1>Отправьте свое резюме</h1>
+<div class="header">
+<p>Талантливый? Находчивый? Известно что вы</p>
+<p>приносите пользу, где бы вы не работали?</p>
+<p>Ждем вашего ответа</p>
+        </div>
+    <div class="btn">
+    <a href="https://t.me/Roman_tvrdhlb" target="_blank">Отправить сейчас!</a></div>
+        </div>
+        </body>
+</html>
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale-1.0">
+        <title>Отправьте свое резюме</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="main.css">
+    </head>
+        <body>
+<h1>Отправьте свое резюме</h1>
+<div class="header">
+<p>Талантливый? Находчивый? Известно что вы</p>
+<p>приносите пользу, где бы вы не работали?</p>
+<p>Ждем вашего ответа</p>
+        </div>
+    <div class="btn">
+    <a href="https://t.me/Roman_tvrdhlb" target="_blank">Отправить сейчас!</a></div>
+        </div>
+        </body>
+</html>
